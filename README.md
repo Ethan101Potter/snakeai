@@ -1,4 +1,4 @@
-# 🐍 SnakeAI
+# SnakeAI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/snakegoai?style=social)](https://x.com/snakegoai)
