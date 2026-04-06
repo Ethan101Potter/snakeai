@@ -91,10 +91,6 @@ An advanced AI engine for Web3 games, focusing on solving intelligent decision-m
 - Player behavior analysis and prediction
 - State rollback and recovery mechanism
 
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details
-
 ## ❓ FAQ
 
 ### 🤔 Does the framework support all types of blockchain games?
