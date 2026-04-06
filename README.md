@@ -1,8 +1,5 @@
 # SnakeAI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter Follow](https://img.shields.io/twitter/follow/snakegoai?style=social)](https://x.com/snakegoai)
-
 An advanced AI engine for Web3 games, focusing on solving intelligent decision-making problems in blockchain games. Through deep integration of deep learning and blockchain technology, it provides intelligent behavior decision-making, event-driven response mechanisms, and learning optimization capabilities based on on-chain data. SnakeAI supports handling complex scenarios such as character autonomous decision-making, market trading strategies, and resource management in games, and can adjust AI behavior in real-time in response to on-chain events.
 
 ## 🌟 Features
