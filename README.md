@@ -2,7 +2,7 @@
 
 An advanced AI engine for Web3 games, focusing on solving intelligent decision-making problems in blockchain games. Through deep integration of deep learning and blockchain technology, it provides intelligent behavior decision-making, event-driven response mechanisms, and learning optimization capabilities based on on-chain data. SnakeAI supports handling complex scenarios such as character autonomous decision-making, market trading strategies, and resource management in games, and can adjust AI behavior in real-time in response to on-chain events.
 
-## 🌟 Features
+##  Features
 
 🤖 **Intelligent Decision System**
 
@@ -88,7 +88,7 @@ An advanced AI engine for Web3 games, focusing on solving intelligent decision-m
 - Player behavior analysis and prediction
 - State rollback and recovery mechanism
 
-## ❓ FAQ
+## FAQ
 
 ### 🤔 Does the framework support all types of blockchain games?
 
